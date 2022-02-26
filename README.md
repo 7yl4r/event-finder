@@ -1,4 +1,3 @@
-# python-template
-template for starting in on an experiment in python using my preferred tooling.
+# event-finder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/7yl4r/7ython-project-template/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/7yl4r/event-finder/HEAD)

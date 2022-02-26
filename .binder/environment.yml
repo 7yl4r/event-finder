@@ -5,4 +5,5 @@ dependencies:
   - python
   - pandas
   - numpy
-  - scrapy
+  - scrapy~=2.5.1 
+  - protego~=0.1.16

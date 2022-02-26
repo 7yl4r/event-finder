@@ -1,4 +1,4 @@
-name: 7ython-project-template
+name: event-finder
 channels:
   - conda-forge
 dependencies:
